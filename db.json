@@ -1,0 +1,26 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Toffee Crunch"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "03-02-2020",
+      "tech": "Bubble Tea"
+    },
+    {
+      "id": 3,
+      "message": "Changed memory on workstation 050",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Matcha Latte"
+    }
+  ],
+  "techs": []
+}
