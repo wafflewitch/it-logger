@@ -37,6 +37,11 @@
       "id": 3,
       "firstName": "Matcha",
       "lastName": "Latte"
+    },
+    {
+      "firstName": "Ichigo",
+      "lastName": "Daifuku",
+      "id": 4
     }
   ]
 }
